@@ -1,38 +1,49 @@
 {
   "name": "عراق جرافيك",
-  "short_name": "عراق جرافيك",
-  "start_url": "https://www.iraqgfx.com",
-  "display": "standalone",
+  "short_name": "iqgfx",
+  "display": "fullscreen",
+  "prefer_related_applications": true,
+  "start_url": "https://iqgfx.blogspot.com",
   "background_color": "#fff",
-  "theme_color": "#00a1b0",
-  "description": "موقع يعتني بالتصميم ويعرض أحدث ادوات التصميم وقوالب تصميم الفوتوشوب الشرقية",
-  "icons": [{
-    "src": "https://2.bp.blogspot.com/-9XeCU4O4WNE/Xzg8T43YGlI/AAAAAAAAAB0/UZ3JK2jPD-Mp3x8LkD-ndDu0Ckw2InGXwCK4BGAYYCw/s48/logo.png",
-    "sizes": "48x48",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-9XeCU4O4WNE/Xzg8T43YGlI/AAAAAAAAAB0/UZ3JK2jPD-Mp3x8LkD-ndDu0Ckw2InGXwCK4BGAYYCw/s72/logo.png",
-    "sizes": "72x72",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-9XeCU4O4WNE/Xzg8T43YGlI/AAAAAAAAAB0/UZ3JK2jPD-Mp3x8LkD-ndDu0Ckw2InGXwCK4BGAYYCw/s96/logo.png",
-    "sizes": "96x96",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-9XeCU4O4WNE/Xzg8T43YGlI/AAAAAAAAAB0/UZ3JK2jPD-Mp3x8LkD-ndDu0Ckw2InGXwCK4BGAYYCw/s144/logo.png",
-    "sizes": "144x144",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-9XeCU4O4WNE/Xzg8T43YGlI/AAAAAAAAAB0/UZ3JK2jPD-Mp3x8LkD-ndDu0Ckw2InGXwCK4BGAYYCw/s168/logo.png",
-    "sizes": "168x168",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-9XeCU4O4WNE/Xzg8T43YGlI/AAAAAAAAAB0/UZ3JK2jPD-Mp3x8LkD-ndDu0Ckw2InGXwCK4BGAYYCw/s192/logo.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-9XeCU4O4WNE/Xzg8T43YGlI/AAAAAAAAAB0/UZ3JK2jPD-Mp3x8LkD-ndDu0Ckw2InGXwCK4BGAYYCw/s512/logo.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }]
+  "theme_color": "#016fba",
+  "description": "موقع يعتني بالتصميم ويعرض أحدث ادوات التصميم وقوالب تصميم الفوتوشوب الشرقية.",
+  "lang": "ar-AR",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s36/logogfx.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s48/logogfx.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s72/logogfx.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s96/logogfx.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s144/logogfx.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s192/logogfx.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s512/logogfx.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
